@@ -2,7 +2,7 @@ Hello git!   hot fix here
 Hello git!   456
 Hello git!   789
 Hello git!   master test
-Hello git!
+Hello git!   hotfix test!
 Hello git!
 Hello git!
 Hello git!
